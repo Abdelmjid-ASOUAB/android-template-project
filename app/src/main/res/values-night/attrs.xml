@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="colors">
+        <attr name="white" format="color" />
+        <attr name="main_color" format="color" />
+        <attr name="main_color_8" format="color" />
+        <attr name="selected_radio_color" format="color" />
+        <attr name="title_1_color" format="color" />
+        <attr name="title_2_color" format="color" />
+        <attr name="logo_color" format="color" />
+        <attr name="drawer_name_color" format="color" />
+        <attr name="today_card_color" format="color" />
+        <attr name="yesterday_card_color" format="color" />
+        <attr name="all_time_card_color" format="color" />
+        <attr name="week_card_color" format="color" />
+        <attr name="month_card_color" format="color" />
+        <attr name="info_card_color" format="color" />
+        <attr name="general_card_color" format="color" />
+        <attr name="background_color" format="color" />
+        <attr name="card_color" format="color" />
+        <attr name="app_bar_btn_color" format="color" />
+        <attr name="navigation_icon_color" format="color" />
+        <attr name="navigation_icon_color_8" format="color" />
+
+    </declare-styleable>
+
+    <declare-styleable name="CustomTextView">
+        <attr name="customFontWeight" format="enum">
+            <enum name="regular" value="0" />
+            <enum name="medium" value="1" />
+            <enum name="semi_bold" value="2" />
+            <enum name="bold" value="3" />
+            <enum name="light" value="4" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="CustomImageView">
+        <attr name="fitColor" format="color"/>
+    </declare-styleable>
+
+</resources>

@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+   <!-- for custom snackbar -->
+    <color name="success">#59CE8F</color>
+    <color name="warning">#FBDF07</color>
+    <color name="error">#FF4A4A</color>
 </resources>
